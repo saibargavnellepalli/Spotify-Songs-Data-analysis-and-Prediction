@@ -30,3 +30,16 @@ Identify the association between different types of songs
 As a music aficionado, find the songs that were off your radar
 If you love that genre, get a recommendation for it
 Identify the popular songs, the popularity of artists etc
+
+
+Conlusion : 
+Given below is a summary of the findings that I have come across during the exploration of this dataset
+
+EDM is the genre in which most songs have been released, followed by rap and then pop
+
+With 161 tracks in their name, Martin Garrix have been the busiest artists over time. David Guetta comes in second with 135 tracks
+
+number of songs for each year in the dataset according to their release date have increased in recent years since music became accessbile to people because of advancement in technology
+
+![image](https://user-images.githubusercontent.com/80017755/211472220-addbcb60-c680-4728-8a06-29484ff6a0e3.png)
+
